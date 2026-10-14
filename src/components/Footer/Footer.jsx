@@ -88,7 +88,7 @@ const Footer = () => {
             <ul>
               <li><a href="/registration">Registration</a></li>
               <li><a href="/speakers">Keynotes & Session Chairs</a></li>
-              {/* <li><a href="/percaa-2026">PerCAA-2026</a></li> */}
+              <li><a href="/percaa-2026">PerCAA-2025</a></li>
               <li><a href="/percaa-2024">PerCAA-2024</a></li>
               <li><a href="/percaa-2020">PerCAA-2020</a></li>
               <li><a href="/venue">Venue</a></li>
