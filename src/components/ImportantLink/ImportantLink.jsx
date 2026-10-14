@@ -5,7 +5,7 @@ const ImportantBanner = () => {
   return (
     <div className="important-banner">
       <div className="important-label">IMPORTANT</div>
-      <div className="marquee-container">
+      {/* <div className="marquee-container">
         <div className="marquee-content">
           <a
             href="https://cmt3.research.microsoft.com/PerCAA2025"
@@ -31,8 +31,8 @@ const ImportantBanner = () => {
           <a>#The Best Paper Award will be conferred on one outstanding paper from each track of the conference, in recognition of its quality, originality, and contribution.
           </a>
         </div>
-      </div>
-    </div>
+      </div> */}
+    </div>  
   );
 };
 

@@ -17,6 +17,7 @@ import OrganizingCommittee from './components/OrganizingCommittee/OrganizingComm
 import Publication from './components/Publication/Publication'
 import PerCAA_2020 from './components/PerCAA-2020/PerCAA-2020'
 import PerCAA_2024 from './components/PerCAA-2024/PerCAA-2024'
+import PerCAA_2026 from './components/PerCAA-2026/PerCAA-2026'
 
 function App() {
   return (
@@ -43,6 +44,7 @@ function App() {
           <Route path='/publication' element={<Publication />} />
           <Route path='/PerCAA-2020' element={<PerCAA_2020 />} />
           <Route path='/PerCAA-2024' element={<PerCAA_2024 />} />
+          <Route path='/PerCAA-2026' element={<PerCAA_2026 />} />
         </Routes>
       </div>
     </>

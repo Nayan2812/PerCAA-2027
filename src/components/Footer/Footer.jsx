@@ -16,9 +16,9 @@ const Footer = () => {
       <div className="footer-content">
         {/* About Section */}
         <div className="footer-section about">
-          <h3>PerCAA 2026</h3>
+          <h3>PerCAA 2027</h3>
           <p>
-            International Symposium on Pervasive Computing Advances and Applications (PerCAA 2026),
+            International Symposium on Pervasive Computing Advances and Applications (PerCAA 2027),
             hosted by Poornima College of Engineering, Jaipur.
           </p>
         </div>
@@ -88,6 +88,7 @@ const Footer = () => {
             <ul>
               <li><a href="/registration">Registration</a></li>
               <li><a href="/speakers">Keynotes & Session Chairs</a></li>
+              <li><a href="/percaa-2026">PerCAA-2026</a></li>
               <li><a href="/percaa-2024">PerCAA-2024</a></li>
               <li><a href="/percaa-2020">PerCAA-2020</a></li>
               <li><a href="/venue">Venue</a></li>
