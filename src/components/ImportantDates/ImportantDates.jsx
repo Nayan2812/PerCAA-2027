@@ -5,14 +5,14 @@ import ImportantBanner from "../ImportantLink/ImportantLink";
 
 const ImportantDates = () => {
     const dates = [
-        { event: "Start of Call for Papers", date: ['November 2, 2027'] },
-        { event: "Author Acceptance", date: ['December 12, 2027'] },
-        { event: "Final Paper Submission Deadline", date: [/*'September 01, 2025','September 15, 2025',*/'January 20, 2027'] },
-        { event: "Author Notification", date: [/*'September 15, 2025','September 30, 2025',*/'March 10, 2027'] },
-        { event: "Camera Ready Paper Submission", date: [/*'October 01, 2025',*/'March 26, 2027'] },
+        { event: "Start of Call for Papers", date: ['January 11, 2027'] },
+        { event: "Author Acceptance", date: ['June 15, 2027'] },
+        { event: "Final Paper Submission Deadline", date: [/*'September 01, 2025','September 15, 2025',*/'July 15, 2027'] },
+        { event: "Author Notification", date: [/*'September 15, 2025','September 30, 2025',*/'July 30, 2027'] },
+        { event: "Camera Ready Paper Submission", date: [/*'October 01, 2025',*/'August 10, 2027'] },
         
-        { event: "Last Date of Registration", date: ['April 01, 2027'] },
-        { event: "Conference Date", date: ['April 23-24, 2027'] },
+        { event: "Last Date of Registration", date: ['September 10, 2027'] },
+        { event: "Conference Date", date: ['October 08-09, 2027'] },
         /*{ event: "Early Bird Registration" , date:['October 10, 2025']},*/
     ];
 
